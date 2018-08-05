@@ -1,0 +1,9 @@
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\bin\Debug\netcoreapp2.0\Cidades.RequestDTO.deps.json
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\bin\Debug\netcoreapp2.0\Cidades.RequestDTO.dll
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\bin\Debug\netcoreapp2.0\Cidades.RequestDTO.pdb
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\obj\Debug\netcoreapp2.0\Cidades.RequestDTO.csprojResolveAssemblyReference.cache
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\obj\Debug\netcoreapp2.0\Cidades.RequestDTO.csproj.CoreCompileInputs.cache
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\obj\Debug\netcoreapp2.0\Cidades.RequestDTO.AssemblyInfoInputs.cache
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\obj\Debug\netcoreapp2.0\Cidades.RequestDTO.AssemblyInfo.cs
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\obj\Debug\netcoreapp2.0\Cidades.RequestDTO.dll
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.RequestDTO\obj\Debug\netcoreapp2.0\Cidades.RequestDTO.pdb
