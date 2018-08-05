@@ -1,0 +1,15 @@
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Data.deps.json
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Data.runtimeconfig.json
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Data.runtimeconfig.dev.json
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Data.dll
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Data.pdb
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Domain.dll
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Cidades.Domain.pdb
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.csprojResolveAssemblyReference.cache
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.csproj.CoreCompileInputs.cache
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.AssemblyInfoInputs.cache
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.AssemblyInfo.cs
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.csproj.CopyComplete
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.dll
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\obj\Release\netcoreapp2.0\Cidades.Data.pdb
+D:\Developer\workspace_git\cidades-api-aspnetcore\Cidades.Data\bin\Release\netcoreapp2.0\Seed\cidades.csv

@@ -1,0 +1,23 @@
+ibge_id,uf,name,capital,lon,lat,no_accents,alternative_names,microregion,mesoregion
+1100189,RO,Pimenta Bueno,,-61.1836656736,-11.67753699,Pimenta Bueno,,Vilhena,Leste Rondoniense
+1100205,RO,Porto Velho,true,-63.8314456544,-8.76889179,Porto Velho,,Porto Velho,Madeira-Guapor
+1302405,AM,Lbrea,,-64.7947730275,-7.2619465533,Labrea,,Purus,Sul Amazonense
+1302504,AM,Manacapuru,,-60.6205894459,-3.2982780355,Manacapuru,,Manaus,Centro Amazonense
+1302553,AM,Manaquiri,,-60.4588813064,-3.4290796694,Manaquiri,,Manaus,Centro Amazonense
+1302603,AM,Manaus,true,-60.0233351811,-3.1346914912,Manaus,,Manaus,Centro Amazonense
+2806305,SE,Santa Luzia do Itanhy,,-37.4498421802,-11.3533173973,Santa Luzia do Itanhy,,Estncia,Leste Sergipano
+2806404,SE,Santana do So Francisco,,-36.599579348,-10.2876719724,Santana do Sao Francisco,,Propri,Leste Sergipano
+2806503,SE,Santa Rosa de Lima,,-37.1977318456,-10.6462336647,Santa Rosa de Lima,,Cotinguiba,Leste Sergipano
+3156304,MG,Rodeiro,,-42.8686762586,-21.2007050792,Rodeiro,,Ub,Zona da Mata
+3156403,MG,Romaria,,-47.5817549005,-18.8834800349,Romaria,,Patrocnio,Tringulo Mineiro/Alto Paranaba
+3156452,MG,Rosrio da Limeira,,-42.5060599702,-20.9812982014,Rosario da Limeira,,Muria,Zona da Mata
+3156502,MG,Rubelita,,-42.2647623324,-16.4029664157,Rubelita,,Salinas,Norte de Minas
+3156601,MG,Rubim,,-40.5369414739,-16.3729735167,Rubim,,Almenara,Jequitinhonha
+3156700,MG,Sabar,,-43.8255570903,-19.8924945121,Sabara,,Belo Horizonte,Metropolitana de Belo Horizonte
+3156809,MG,Sabinpolis,,-43.0882036429,-18.6718146532,Sabinopolis,,Guanhes,Vale do Rio Doce
+3156908,MG,Sacramento,,-47.4365553164,-19.8635763394,Sacramento,,Arax,Tringulo Mineiro/Alto Paranaba
+3157005,MG,Salinas,,-42.2935064723,-16.1698557321,Salinas,,Salinas,Norte de Minas
+3157104,MG,Salto da Divisa,,-39.9507560236,-15.9975707022,Salto da Divisa,,Almenara,Jequitinhonha
+4205407,SC,Florianpolis,true,-48.5476373782,-27.5877955486,Florianopolis,,Florianpolis,Grande Florianpolis
+4208302,SC,Itapema,,-48.6173993861,-27.0959378837,Itapema,,Itaja,Vale do Itaja
+4209102,SC,Joinville,,-48.8494091432,-26.3045176487,Joinville,,Joinville,Norte Catarinense
